@@ -1,2 +1,1 @@
-# ev3dev_basics
-ev3dev Basics
+# ev3dev Python Intro
